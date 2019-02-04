@@ -1,4 +1,4 @@
-package com.baseutilities.app.base_class;
+package com.baseutilities.utilities;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -24,10 +24,6 @@ import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.Toast;
-
-import com.baseutilities.app.utilities.SharedPreferencesHelper;
-import com.baseutilities.app.utilities.Utilities;
-import com.baseutilities.app.utilities.Validator;
 
 import java.io.File;
 import java.io.FileNotFoundException;

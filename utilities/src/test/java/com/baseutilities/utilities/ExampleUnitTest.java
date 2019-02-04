@@ -1,4 +1,4 @@
-package com.baseutilities.app;
+package com.baseutilities.utilities;
 
 import org.junit.Test;
 

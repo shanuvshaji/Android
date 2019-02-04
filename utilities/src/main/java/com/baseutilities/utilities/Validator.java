@@ -1,4 +1,4 @@
-package com.baseutilities.app.utilities;
+package com.baseutilities.utilities;
 
 import android.annotation.TargetApi;
 import android.content.ContentUris;
@@ -88,6 +88,7 @@ public class Validator {
 
         return (!(data == null || data.trim().isEmpty() || data.equals("null") || data.equals("")));
     }
+
 
 
     @TargetApi(Build.VERSION_CODES.KITKAT)

@@ -1,4 +1,4 @@
-package com.baseutilities.app.utilities;
+package com.baseutilities.utilities;
 
 import android.annotation.TargetApi;
 import android.content.ContentUris;
@@ -449,7 +449,6 @@ public class Utilities {
         // Result.
         return new String(array);
     }
-
 
 
     public String changeDateFormat(String oldDate) {

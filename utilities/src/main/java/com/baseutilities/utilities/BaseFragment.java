@@ -1,4 +1,4 @@
-package com.baseutilities.app.base_class;
+package com.baseutilities.utilities;
 
 import android.app.Activity;
 import android.content.Context;
@@ -13,10 +13,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Toast;
-
-import com.baseutilities.app.utilities.SharedPreferencesHelper;
-import com.baseutilities.app.utilities.Utilities;
-import com.baseutilities.app.utilities.Validator;
 
 
 public class BaseFragment extends Fragment {

@@ -1,9 +1,9 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.baseutilities.app"
+//        applicationId "com.baseutilities.app"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
